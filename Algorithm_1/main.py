@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 class Solution:
     def twoSum(self, nums, target):
         """
@@ -24,8 +25,6 @@ class Solution:
             cnt2 += 1
         return None
 
-
-0
 
 if __name__ == '__main__':
     a = [-1, -2, -3, -4, -5]
